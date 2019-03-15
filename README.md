@@ -1,7 +1,7 @@
 # themoviedb-reactnative
 The MovieDB React-Native Challenge
 
-Find a directory you'd like to clone the repository, and run the following command.
+Find a directory you'd like to clone the repository into, and run the following command.
 
 `git clone https://github.com/Oscar-Kwan/themoviedb-reactnative.git `
 
